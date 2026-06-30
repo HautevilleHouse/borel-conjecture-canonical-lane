@@ -275,4 +275,4 @@ Therefore the coherence gate and final margin gate close on the tracked admissib
 
 1. A. Borel, *Seminar on transformation groups*, Ann. of Math. Studies 46, Princeton Univ. Press, 1960.
 2. F. T. Farrell and L. E. Jones, *Topological rigidity for compact nonpositively curved manifolds*, Proc. Sympos. Pure Math. 54 (1993), 229-274.
-3. S. Cappell, A. Weinberger, and S. Ferry, *The Borel conjecture for manifolds with lower curvature bounds*, in various survey sources.
+3. A. Bartels and W. Lück, *The Borel Conjecture for hyperbolic and CAT(0)-groups*, Ann. of Math. 175 (2012), 631-689. DOI: `10.4007/annals.2012.175.2.5`
